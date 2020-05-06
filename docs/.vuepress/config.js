@@ -66,6 +66,7 @@ module.exports = {
   ],
   "theme": "reco",
   "themeConfig": {
+    "tags":"/tags",
     "nav": [
       {
         "text": "Home",
@@ -91,15 +92,21 @@ module.exports = {
       },
       "tag": {
         "location": 3,
-        "text": "Tag"
+        "text": 'Tag'     
       }
     },
     "friendLink": [
       {
         "title": "Kincolle's bilibili",
         "desc": "bilibili kanppai!!",
-        "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
+        "logo": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         "link": "https://space.bilibili.com/33982414"
+      },
+      {
+        "title": "Kincolle's leetcode",
+        "desc": "leetcode",
+        "logo": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
+        "link": "https://leetcode-cn.com/u/asahina/"
       }
     ],
     "logo": "/logo.jpg",
