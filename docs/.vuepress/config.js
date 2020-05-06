@@ -39,10 +39,10 @@ module.exports = {
     [
       "dynamic-title",
       {
-        showIcon: "/favicon.ico",
-        showText: "(/≧▽≦/)咦！又好了！",
-        hideIcon: "/failure.ico",
-        hideText: "(●—●)喔哟，崩溃啦！",
+        showIcon: "/ok_favicon.ico",
+        showText: "(/≧▽≦/)Hello! You are back!",
+        hideIcon: "/no_favicon.ico",
+        hideText: "(●—●)Oh! you are leaving!",
         recoverTime: 2000
       }
     ],
@@ -53,7 +53,7 @@ module.exports = {
       "link",
       {
         "rel": "icon",
-        "href": "/favicon.ico"
+        "href": "/ok_favicon.ico"
       }
     ],
     [
@@ -78,15 +78,9 @@ module.exports = {
         "icon": "reco-date"
       },
       {
-        "text": "Contact",
-        "icon": "reco-message",
-        "items": [
-          {
-            "text": "GitHub",
-            "link": "https://github.com/recoluan",
-            "icon": "reco-github"
-          }
-        ]
+        "text": "My Github",
+        "link": "https://github.com/kincolle",
+        "icon": "reco-github"                
       }
     ],
     "type": "blog",
@@ -102,27 +96,20 @@ module.exports = {
     },
     "friendLink": [
       {
-        "title": "午后南杂",
-        "desc": "Enjoy when you can, and endure when you must.",
-        "email": "1156743527@qq.com",
-        "link": "https://www.recoluan.com"
-      },
-      {
-        "title": "vuepress-theme-reco",
-        "desc": "A simple and beautiful vuepress Blog & Doc theme.",
+        "title": "Kincolle's bilibili",
+        "desc": "bilibili kanppai!!",
         "avatar": "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-        "link": "https://vuepress-theme-reco.recoluan.com"
+        "link": "https://space.bilibili.com/33982414"
       }
     ],
-    "logo": "/logo.png",
+    "logo": "/logo.jpg",
     "search": true,
     "searchMaxSuggestions": 10,
     "sidebar": "auto",
     "lastUpdated": "Last Updated",
-    "author": "",
+    "author": "Kincolle",
     "authorAvatar": "/avatar.jpg",
-    "record": "xxxx",
-    "startYear": "2017"
+    "startYear": "2020"
   },
   "markdown": {
     "lineNumbers": true
