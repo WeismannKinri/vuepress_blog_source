@@ -1,7 +1,7 @@
 module.exports = {
   "title": "Asahina Blog",
   "description": "For Tech Blog",
-  "dest": "public",
+  "base": "/",
   "plugins": [
     [
       "@vuepress-reco/vuepress-plugin-kan-ban-niang",
