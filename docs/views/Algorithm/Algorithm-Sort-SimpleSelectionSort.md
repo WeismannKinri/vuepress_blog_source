@@ -12,7 +12,7 @@ It will a smallest(or biggest) value and replace it at the first place, then do 
 
 The following picture will show you this
 
-![](Algorithm-Sort-SimpleSelectionSort/1.jpg)
+![](./Algorithm-Sort-SimpleSelectionSort/1.jpg)
 
 ## Code
 Here is an example code:

@@ -64,9 +64,9 @@ module.exports = {
       }
     ]
   ],
-  "theme": "reco",
+  "theme": "reco", 
   "themeConfig": {
-    "tags":"/tags",
+    "noFoundPageByTencent": false,
     "nav": [
       {
         "text": "Home",
@@ -92,7 +92,7 @@ module.exports = {
       },
       "tag": {
         "location": 3,
-        "text": 'Tag'     
+        "text": 'Tags'     
       }
     },
     "friendLink": [

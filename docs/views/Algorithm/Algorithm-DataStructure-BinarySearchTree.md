@@ -24,18 +24,12 @@ The following GIF shows you how it searches
 3. if x is smaller than root node of b then go left subtree
 4. else go right subtree 
 
-![](Algorithm-DataStructure-BinarySearchTree/1.gif) 
+![](./Algorithm-DataStructure-BinarySearchTree/1.gif) 
 
 ## 3. Build a BST From a Sorted Array
-![](Algorithm-DataStructure-BinarySearchTree/2.gif)
+![](./Algorithm-DataStructure-BinarySearchTree/2.gif)
 
 ## 4. Insert Element Into BST
-向一个二叉搜索树b中插入一个节点s的算法，过程为：
-
-若b是空树，则将s所指结点作为根节点插入，否则：
-若s->data等于b的根节点的数据域之值，则返回，否则：
-若s->data小于b的根节点的数据域之值，则把s所指节点插入到左子树中，否则：
-把s所指节点插入到右子树中。（新插入节点总是叶子节点）
 
 Insert a node s into a BST a will be like:
 
@@ -44,7 +38,7 @@ Insert a node s into a BST a will be like:
 3. If s->data is smaller then b then go left
 4. else go right
 
-![](Algorithm-DataStructure-BinarySearchTree/3.gif) 
+![](./Algorithm-DataStructure-BinarySearchTree/3.gif) 
 
 ## 5. Turn BST Into a Sorted Array
-![](Algorithm-DataStructure-BinarySearchTree/4.gif)
+![](./Algorithm-DataStructure-BinarySearchTree/4.gif)

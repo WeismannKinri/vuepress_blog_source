@@ -11,11 +11,11 @@ Reservoir sampling is a technique to enable a representative sample of a large d
 
 ## 2. Algorithm
 We want to pick a element at the ratio of 1/n when we have n elements. So, the ratio of m<sub>th</sub> element to be chosen is like the following picture
-![](Algorithm-Others-ReservoirSampling/1.gif)
+![](./Algorithm-Others-ReservoirSampling/1.gif)
 
 
 For Reservoir Sampling, it is the same:
-![](Algorithm-Others-ReservoirSampling/2.gif)
+![](./Algorithm-Others-ReservoirSampling/2.gif)
 
 
 

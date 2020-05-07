@@ -26,4 +26,4 @@ Now if p is a core point, then it forms a cluster together with all points (core
 ## Example
 From the following picture we can see that its MinPts is 5 and all the red point are core points.
 
-![](Algorithm-DataMining-DBSCAN/1.png)
+![](./Algorithm-DataMining-DBSCAN/1.png)

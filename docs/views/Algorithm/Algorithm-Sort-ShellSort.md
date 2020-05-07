@@ -9,9 +9,9 @@ categories:
 ## Introduction
 It will split a data set that need to be sorted into several  parts and sort every part by using insert sort. Do there again until all the data has been sorted. The following picture will show you the detail:
 
-![](Algorithm-Sort-ShellSort/shell1.png)
-![](Algorithm-Sort-ShellSort/shell2.png)
-![](Algorithm-Sort-ShellSort/shell3.png)
+![](./Algorithm-Sort-ShellSort/shell1.png)
+![](./Algorithm-Sort-ShellSort/shell2.png)
+![](./Algorithm-Sort-ShellSort/shell3.png)
 
 It is faster than insert sort.
 

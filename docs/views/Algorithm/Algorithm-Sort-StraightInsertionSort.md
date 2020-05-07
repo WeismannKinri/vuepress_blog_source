@@ -12,7 +12,7 @@ Insert one value into a sorted table, then get a new table which has increased o
 
 Like the following picture shows:
 
-![](Algorithm-Sort-StraightInsertionSort/insertionsort.png)
+![](./Algorithm-Sort-StraightInsertionSort/insertionsort.png)
 
 ## Code
 The java example is:

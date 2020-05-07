@@ -16,7 +16,7 @@ The quicksort algorithm sorts an unordered list based on the divide and conquer 
 >V is the unordered list and choose X as pivot and let all elements that less than X is a and others are b >Quicksort(V,a,pivot) 
 >Quicksort(V,pivot,b)
 
-![](Algorithm-Sort-QuickSort/1.png)
+![](./Algorithm-Sort-QuickSort/1.png)
 
 This picuture shows how quicksort make low elements sub-list and high elements sub-list. The number with yellow backgroud is pivot. The red arrow is the left side where has been reached and the blue arrow is the right side where has been reached.
 

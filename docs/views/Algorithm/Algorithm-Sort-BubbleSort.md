@@ -14,7 +14,7 @@ I copy introduction of it from [wiki](https://en.wikipedia.org/wiki/Bubble_sort)
 ## Example
 I found an interesting gif which shows how bubble sort works:
 
-![](Algorithm-Sort-BubbleSort/1.gif)
+![](./Algorithm-Sort-BubbleSort/1.gif)
 
 ## Code
 
