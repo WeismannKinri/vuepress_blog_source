@@ -7,7 +7,7 @@ categories:
 - Spring
 ---
 ## Introduction of @RequestMapping
-The @RequestMapping  is one of the most popular annotations. It will mapping HTTP request to the right function of the right controller. In srpingMVC, the RequestDispatcher is responsible for rooting HTTP request to the right function. So, when setting springMVC we need to set the mapping.  
+The @RequestMapping  is one of the most popular annotations. It will mapping HTTP request to the right function of the right controller. In srpingMVC, the RequestDispatcher is responsible for routing HTTP request to the right function. So, when setting springMVC we need to set the mapping.  
 
 ![](./Spring-SpringMVC-RequestMapping/1.png)
 
