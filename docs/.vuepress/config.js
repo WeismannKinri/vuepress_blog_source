@@ -14,7 +14,8 @@ module.exports = {
     ],
     [
       "@vuepress-reco/vuepress-plugin-bgm-player",
-      {
+        {
+        autoplay:true,  
         "audios":[
           {
           name: 'Where Ideas Sing',
