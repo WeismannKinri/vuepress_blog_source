@@ -6,6 +6,6 @@ Asahina's blog
 # 编译
 npm run build
 
-# 启动
+# 启动 本地测试
 npm run dev
 ```
