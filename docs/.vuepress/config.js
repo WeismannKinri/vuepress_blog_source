@@ -18,14 +18,10 @@ module.exports = {
         autoplay:true,  
         "audios":[
           {
-          name: 'Where Ideas Sing',
-          artist: 'Saba,Daoud',
-          url: '/bgm/Saba,Daoud - Where Ideas Sing.mp3',
-          cover: '/bgm/1.jpg'
-        },{
-          name: 'milet - Prover',
-          artist: 'milet',
-          url: '/bgm/milet - Prover.mp3'
+          name: '紅蓮華',
+          artist: 'Lisa',
+          url: '/bgm/紅蓮華.mp3',
+          cover: '/bgm/紅蓮華.jpg'
         }]
       }
     ],
